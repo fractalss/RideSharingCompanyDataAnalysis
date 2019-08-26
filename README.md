@@ -25,4 +25,3 @@ In addition, you will be expected to produce the following three pie charts:
 
 * You must use the Pandas Library and the Jupyter Notebook.
 * You must use the Matplotlib library.
-* 
